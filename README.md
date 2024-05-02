@@ -1,10 +1,14 @@
 # Desafio de Lógica Módulo 02
 
-### Instruções para abrir o projeto
+### Instruções para entrege
 
 1. Faça o fork deste repositório
 2. Clone o repositório forkado
 3. Abra-o no VS Code
+4. Resolva o desafio
+5. Atualize o repositório remoto com o código (`git push`)
+6. Abra um pull request
+7. Cole o link do seu pull request na plataforma
 
 ### Instruções para rodar o projeto
 
