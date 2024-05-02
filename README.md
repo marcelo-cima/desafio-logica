@@ -1,6 +1,6 @@
 # Desafio de Lógica Módulo 02
 
-### Instruções para entrege
+### Instruções para entrega
 
 1. Faça o fork deste repositório
 2. Clone o repositório forkado
