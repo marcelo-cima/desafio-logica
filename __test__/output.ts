@@ -47,7 +47,7 @@ export const desempenhoInvestimentoOutput = {
 export const entregaAtrasoOutput = {
   output1: "$2a$04$FfgHa/C.HeierABkle3bFOX0kz.XqHTsZMLDr5sdhGy/avSiGLzom",
   output2: "$2a$04$5v/h0R/AiQfo1svddg0WSeW1EBPEe3.KzU4gneSL9RPBvJWHYGhpW",
-  output3: "$2a$04$V6PtkqT3y8fPJ9.7tkVqNusawEPfq/tCTn9zloYWNLbxE9YJZFfee",
+  output3: "$2a$04$nm9nme2ign9QRegTgUtI1O8pilc8l2cySq74GDWAc/8KtF1hc5cx.",
   output4: "$2a$04$x8p4RF2TwX7Cy.m6yAEnUeiDztIVqYhnud5XHn2LK/px9Vo9ry8Me",
 };
 
