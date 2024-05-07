@@ -7,9 +7,9 @@ describe("Questão - Entrega em Atraso", () => {
     const x1 = {
       pedido: "TV LED 24 polegadas",
       quantidade: 2,
-      estimativaEntrega: 10,
+      estimativaEntrega: 7,
     };
-    const x2 = 1;
+    const x2 = 8;
     const y = solucao(x1, x2);
     const corresponde = comparar(y, entregaAtrasoOutput.output1);
     expect(corresponde).toBeTruthy();
