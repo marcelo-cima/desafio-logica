@@ -1,4 +1,8 @@
 function solucao(vendasDiarias: number[]) {
-  // seu código aqui
+  let total = 0
+  for (let venda of vendasDiarias){
+    total += venda
+  }
+  return total
 }
 export default solucao;

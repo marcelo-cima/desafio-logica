@@ -1,4 +1,4 @@
 function solucao(senhaDigitada: string, senhaCriptografada: string) {
-  // seu código aqui
+return "cubos"+senhaDigitada+"cubos" == senhaCriptografada ? 'LOGIN AUTORIZADO' : 'LOGIN NAO AUTORIZADO'
 }
 export default solucao;

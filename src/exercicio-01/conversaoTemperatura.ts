@@ -1,4 +1,4 @@
 function solucao(celsius: number) {
-  // seu código aqui
+  return celsius + 273
 }
 export default solucao;

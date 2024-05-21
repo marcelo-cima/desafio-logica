@@ -3,6 +3,6 @@ function solucao(
   precoCompra: number,
   valorInvestido: number
 ) {
-  // seu código aqui
+  return (precoVenda - precoCompra)*valorInvestido
 }
 export default solucao;
