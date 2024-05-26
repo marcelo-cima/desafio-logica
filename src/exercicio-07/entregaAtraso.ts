@@ -5,6 +5,8 @@ type TDados = {
 };
 
 function solucao(dadosEntrega: TDados, diaAtual: number) {
-  // seu código aqui
+  let {estimativaEntrega} = dadosEntrega
+
+ return estimativaEntrega >= diaAtual ? 'ENTREGA NAO ATRASADA' : 'ENTREGA ATRASADA'
 }
 export default solucao;
