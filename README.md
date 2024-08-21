@@ -1,48 +1,21 @@
 # Desafio de Lógica Módulo 02
 
-### Instruções para entrega
+## Overview
 
-1. Faça o fork deste repositório
-2. Clone o repositório forkado
-3. Abra-o no VS Code
-4. Resolva o desafio
-5. Atualize o repositório remoto com o código (`git push`)
-6. Abra um pull request
-7. Cole o link do seu pull request na plataforma
+Este foi o 2º desafio desenvolvido durante minhas aulas na Cubos Academy. Diversos desafios de lógica de programação foram lançados, com dificuldades crescentes. Durante o código, implemento as competências que aprendi para cosntruir códigos bem estruturados e alinhados.
+O desafio foi concluído com a nota máxima e 100% de êxito.
 
-### Instruções para rodar o projeto
+## Competências treinadas
 
-1. Use o comando `npm install` no seu terminal para instalar as dependências necessárias para rodar o projeto
-2. Caso deseje, use o arquivo `index.ts`, que se encontra dentro da pasta _src_, para testar os códigos usados para resolver os exercícios
-3. Use o comando `npm run start` no terminal para rodar o código do arquivo `index.ts`
-4. Quando estiver satisfeito com o código, passe-o para o arquivo _.ts_ que se encontra dentro da pasta com o número da questão que está resolvendo. Todas as resoluções devem ser colocadas dentro da função `solucao`
-5. Caso ainda não tenha feito, baixe a extensão _Code Runner_
-6. Com o arquivo _.ts_ da questão aberto, clique em "Run Code" para submeter a questão
+- Funções
+- Tipos de dados
+- Gestão de tempo
+- Tipos de utilitários
+- Metodos de strings
+- Currículo e carta de apresentação
+- Métodos de arrays
+- Linkedin
 
-### Como saber sua nota
-
-Rode o comando `npm run test` para saber qual a sua NOTA FINAL, em porcentagem, no desafio.
-
-**CUIDADO! A nota mostrada é referente a todas as questões do desafio. Ou seja, se o desafio estiver sendo liberado por partes, a nota mostrada não reflete a sua nota parcial.**
-
-### Principais erros
-
-1. Você não deve atribuir valores às entradas da função `solucao`. É comum criarmos essas variáveis para testar o código, mas não se esqueça de deletá-las ao passar o código para a função `solucao`
-2. Você deve usar o `return` em todos os exercícios que pedem para RETORNAR algo
-3. Atente-se ao retorno. Você deve retornar exatamente o que é pedido. Por exemplo:
-   - caso esteja pedindo para retornar uma soma, você deve retornar APENAS a soma, e não "A soma é: VALOR_DA_SOMA"
-   - caso esteja pedindo para retornar "OLA, MUNDO", você NÃO deve retornar "Olá, mundo", ou " Olá, mundo", ou "Olá, mundo ". Atente-se para a quantidade de espaços em branco, para o tipo de letra (maíusculas ou minúsculas) e para as acentuações.
-
-### Dicas
-
-- Faça commits regulares. Dica: faça, pelo menos, um commit ao término de cada um das questão
-- Quando terminar, lembre-se de atualizar seu repositório remoto (`git push`). Lembre-se que seu GitHub será seu portifólio. É sempre bom mantê-lo atualizado e ativo.
-
----
-
----
-
-<details>
 <summary>[Variáveis] Exercício 01</summary>
 
 # Conversão de temperatura
