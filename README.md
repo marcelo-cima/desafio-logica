@@ -1,4 +1,4 @@
-# Desafio de Lógica Módulo 02
+# Desafio de Lógica
 
 ## Overview
 
