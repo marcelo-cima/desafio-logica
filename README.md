@@ -9,12 +9,9 @@ O desafio foi concluído com a nota máxima e 100% de êxito.
 
 - Funções
 - Tipos de dados
-- Gestão de tempo
 - Tipos de utilitários
 - Metodos de strings
-- Currículo e carta de apresentação
 - Métodos de arrays
-- Linkedin
 
 <details>
 <summary>[Variáveis] Exercício 01</summary>
