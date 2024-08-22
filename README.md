@@ -16,6 +16,7 @@ O desafio foi concluído com a nota máxima e 100% de êxito.
 - Métodos de arrays
 - Linkedin
 
+<details>
 <summary>[Variáveis] Exercício 01</summary>
 
 # Conversão de temperatura
